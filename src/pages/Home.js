@@ -6,6 +6,7 @@ const Product = () => {
         <div>
             <section>
                 <hr />
+                <h3>Our Products</h3>
                 <ProductCard />
             </section>
         </div>
